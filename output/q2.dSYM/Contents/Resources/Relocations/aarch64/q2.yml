@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marianaterol/Documents/Faculdade/output/q2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _criarProduto, symObjAddr: 0x0, symBinAddr: 0x100003AE4, symSize: 0x54 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: _criarProduto, symObjAddr: 0x0, symBinAddr: 0x100003AE4, symSize: 0x54 }
+  - { offsetInCU: 0xDA, offset: 0xDA, size: 0x8, addend: 0x0, symName: _inserirOrdenado, symObjAddr: 0x54, symBinAddr: 0x100003B38, symSize: 0x110 }
+  - { offsetInCU: 0x13A, offset: 0x13A, size: 0x8, addend: 0x0, symName: _imprimirListaDeProdutos, symObjAddr: 0x164, symBinAddr: 0x100003C48, symSize: 0x80 }
+  - { offsetInCU: 0x16C, offset: 0x16C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1E4, symBinAddr: 0x100003CC8, symSize: 0x1C4 }
+...
